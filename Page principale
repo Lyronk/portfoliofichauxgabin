@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Lien vers une feuille de style CSS (facultatif) -->
+</head>
+<body>
+    <header>
+        <h1>Mon Site Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">À propos</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>À propos de moi</h2>
+            <p>Je suis un concepteur de sites web passionné par la création de sites web incroyables.</p>
+        </section>
+
+        <section>
+            <h2>Services</h2>
+            <ul>
+                <li>Conception de sites web</li>
+                <li>Optimisation pour les moteurs de recherche (SEO)</li>
+                <li>Design web responsive</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Mon Site Web</p>
+    </footer>
+</body>
+</html>
