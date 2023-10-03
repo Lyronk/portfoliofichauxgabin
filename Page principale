@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Mon Site Web</h1>
+        <h1>Mon portfolio</h1>
         <nav>
             <ul>
                 <li><a href="#">Accueil</a></li>
@@ -22,21 +22,10 @@
     <main>
         <section>
             <h2>À propos de moi</h2>
-            <p>Je suis un concepteur de sites web passionné par la création de sites web incroyables.</p>
+            <p>Je suis un etudiant en 2e année de BTS SIO SISR a gaston berger </p>
         </section>
 
-        <section>
-            <h2>Services</h2>
-            <ul>
-                <li>Conception de sites web</li>
-                <li>Optimisation pour les moteurs de recherche (SEO)</li>
-                <li>Design web responsive</li>
-            </ul>
-        </section>
+       
     </main>
 
     <footer>
-        <p>&copy; 2023 Mon Site Web</p>
-    </footer>
-</body>
-</html>
